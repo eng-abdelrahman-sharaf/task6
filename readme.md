@@ -8,3 +8,5 @@ I worked very hard to finish the project on time, but the time given was not eno
 ## [mpu 6050](./mpu_6050/readme.md)
 
 ## [rotary_encoder](./rotary_encoder/readme.md)
+
+## [mpu 6050](./latex//readme.md)
