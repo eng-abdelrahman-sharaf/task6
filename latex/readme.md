@@ -1,5 +1,5 @@
 ﻿# latex project
-## be careful⚠️⚠️
+## Be careful⚠️⚠️
 please download the pdf and open it on  adobe acrobat to be able to see animation
 
 ## python script used to name png images  🐍🐍
