@@ -1,4 +1,4 @@
-# Rotary encoder
+# Rotary encoder  ![rotary encoder](./rotary.png)
 
 rotary encoder is a device made for measure the counts of the slot (pulses) and therefore the distance and therefore the velocity 
 
